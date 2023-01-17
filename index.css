@@ -1,0 +1,245 @@
+.mainnav{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    /* border: 2px solid red; */
+    /* position: sticky;
+     top: 0; */
+}
+/* .mainnav img{
+    width: 100%;
+} */
+#chandan{
+    border: none;
+}
+#a>a{
+    text-decoration: none;
+}
+.secnav{
+    width: 90%;
+    height: 40px;
+    margin: auto;
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: yellow;
+    /* border: 2px solid red; */
+    position: sticky;
+    top: 0;
+    
+}
+.secnav>a{
+    text-decoration: none;
+}
+/* #blue{
+    background-color:rgb(44, 100, 229);
+} */
+#slideshow{
+    width: 90%;
+    margin: auto;
+    margin-top: 20PX; 
+    /* margin-left: 75px; */
+    /* border: 2px solid red; */
+}
+#slideshow img{
+    width:100%;
+}
+.big{
+    background-color: rgb(238,238,238);
+    text-align: center;
+    width: 90%;
+    margin: auto;
+    margin-top: 20PX;
+  /* border: 2px solid red; */
+}
+/* .big>img{
+    width:100%;
+    margin-top: 20PX;
+    border: 2px solid red;
+} */
+.card{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 15px;
+}
+.card img{    
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    width: 100%;
+}
+.card h3{
+    margin-top: -2px;
+}
+.card p{
+    margin-top: -20px;
+}
+.card div{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px,
+     /* rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px; */
+}
+.big1{
+    /* border: 2px solid black; */
+    /* width: auto; */
+    width: 90%;
+    gap: 10px;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+}
+.big1 button{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width:100%;
+    height: 50px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px,
+     rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    border: none;
+}
+.big2{
+    width: 90%;
+    margin-left: 75px;
+    background-color: rgb(250,250,250);
+    margin-top: 20px;
+    /* border: 3px solid red; */
+
+}
+.big21{
+    margin-top: -5px;
+    display: flex;
+}
+.big2 img{
+    width: 100%;
+}
+.big3{
+    width: 90%;
+    margin-left: 75px;
+    /* border:2px solid red; */
+    margin-top: 20px;
+}
+.big3 img{
+    width: 100%;
+}
+.big4{
+    width: 90%;
+    margin-left: 75px;
+    margin-top: 10px;
+    display: flex;
+    /* border: 2px solid red; */
+}
+.big4 img{
+    width: 100%;
+}
+.big5{
+    width: 90%;
+    display: grid;
+    grid-template-columns: repeat(8,1fr);
+    margin-top: 10px;
+    margin-left: 75px;
+
+    /* border: 2px solid red; */
+}
+.big5 img{
+    width: 100%;
+}
+.big6{
+    width: 90%;
+    margin-left: 75px;
+    display: flex;
+    /* border: 2px solid red; */
+    margin-top: 10px;
+}
+.big6 img{
+    width: 100%;
+}
+.big7{
+    width: 90%;
+    margin-left: 75px;
+    display: flex;
+    /* border: 2px solid red; */
+    margin-top: 10px;
+}
+.big7 img{
+    width: 100%;
+}
+.big8{
+    width: 90%;
+    margin-left: 75px;
+    display:grid;
+    grid-template-columns: repeat(8,1fr);
+    /* border: 2px solid red; */
+    margin-top: 10px;
+}
+.big8 img{
+    width: 100%;
+}
+.big9{
+    width: 90%;
+    margin-left: 75px;
+    margin-top: 5px;
+    /* border: 2px solid red; */
+}
+.big9 img{
+    width: 100%;
+}
+.big10{
+    width: 90%;
+    margin-left: 75px;
+    background-color: rgb(250,250,250);
+    margin-top:10px;
+    /* border: 3px solid red; */
+}
+.big10 img{
+width: 100%;
+}
+.big101{
+    margin-top: -10px;
+    width: 100%;
+    display: flex;
+}
+.big11{
+    width: 90%;
+    margin-left: 75px;
+    background-color: rgb(250,250,250);
+    margin-top:10px;
+    /* border: 3px solid red; */
+}
+.big11 img{
+width: 100%;
+}
+.big111{
+    margin-top: -10px;
+    width: 100%;
+    display: flex;
+}
+.big12{
+    width: 90%;
+    margin-left: 75px;
+    background-color: rgb(250,250,250);
+    margin-top:10px;
+    /* border: 3px solid red; */
+    display:grid;
+    grid-template-columns: repeat(6,1fr);
+
+}
+.big12 img{
+    width: 100%;
+}
+.big13{
+    width: 90%;
+    margin-left: 75px;
+    background-color: rgb(250,250,250);
+    margin-top:10px;
+    display: flex;
+    justify-content: space-around;
+    /* border: 3px solid red; */
+}
+.big13 img{
+width: 100%;
+}
+.big113{
+    margin-top: -10px;
+    width: 100%;
+    display: flex;
+}
