@@ -34,6 +34,12 @@
 .secnav>a{
     text-decoration: none;
 }
+
+.secnav a:hover{
+
+    background-color: red;
+    cursor: pointer;
+}
 /* #blue{
     background-color:rgb(44, 100, 229);
 } */
@@ -242,4 +248,20 @@ width: 100%;
     margin-top: -10px;
     width: 100%;
     display: flex;
+}
+
+
+/* index page end here */
+
+.form-box{
+    width: 90%;
+    max-width: 450px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background:blue;
+    padding: 50px 60px 70px;
+    text-align: center;
+
 }
