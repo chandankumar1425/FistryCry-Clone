@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sign in Page</title>
+  </head>
+  <body>
+    <div class="nav">
+      <a href="./signup.html">Signup</a>
+      <a href="./index.html">Home</a>
+    </div>
+    <div id="signin">
+      <h1 id="heading">Please Enter Your Details</h1>
+      <form>
+        <input type="email" id="email" placeholder="Email" /><br>
+        <input type="password" id="password" placeholder="Password" /><br>
+        <input type="submit" value="Submit" />
+      </form>
+    </div>
+  </body>
+  <script>
+        let email=document.getElementById("email")
+        let password=document.getElementById("password");
+
+        let storeddata=JSON.parse(localStorage.getItem("account-data"))
+        document.querySelector("form").addEventListener("submit",(e)=>{
+          e.preventDefault();
+          display(storeddata);
+          function display(data){
+           data.forEach((e,i)=>{
+            if(email.value===e.Email  && password.value ===e.Password){
+              document.getElementById("heading").innerText="Sign in Successful";
+              alert("Login Sucessfull")
+            }
+            else{
+              document.getElementById("heading").innerText="Wrong Credentials";
+
+            }
+           })
+          }
+
+        })
+
+  </script>
+</html>
