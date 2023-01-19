@@ -11,8 +11,26 @@
 /* .mainnav img{
     width: 100%;
 } */
+.searchbtn input[type="text"]{
+background-image:url(https://www.industrybuying.com/static/svg/search-icon-header.svg);
+background-position:right;
+background-repeat:no-repeat;
+background-size: 15px;
+
+}
+.searchbtn input{
+    width: 300px;
+    height: 30px;
+    border: none;
+   
+}
+
 #chandan{
     border: none;
+}
+#a{
+    display:flex;
+    gap: 10px;
 }
 #a>a{
     text-decoration: none;
@@ -246,6 +264,7 @@ width: 100%;
 }
 .big113{
     margin-top: -10px;
+    margin-left: 75px;
     width: 100%;
     display: flex;
 }
@@ -253,15 +272,8 @@ width: 100%;
 
 /* index page end here */
 
-.form-box{
-    width: 90%;
-    max-width: 450px;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%,-50%);
-    background:blue;
-    padding: 50px 60px 70px;
-    text-align: center;
+/* signin page  */
 
+.nav{
+    margin: auto;
 }

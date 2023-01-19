@@ -6,26 +6,35 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Sign up Page</title>
-  <style>
-    /* Write all necessery css here  */
-  </style>
+  <link rel="stylesheet" href="./signup.css">
+  <script src="https://kit.fontawesome.com/4052196a9f.js" crossorigin="anonymous"></script>
 </head>
 
 <body>
+  <div class="set">
   <div class="nav">
-    <a href="./index.html">Signup</a>
-    <a href="./signIn.html">Signin</a>
+    
   </div>
   <div id="signup">
-    <h1>Please Enter Your Details</h1>
+    <a href="./index.html"><img src="https://cdn.fcglcdn.com/brainbees/images/n/fc-logo-s.jpg" alt=""></a>
+
+    <h2>Register</h2>
+    <h3 id="heading">Email ID/Mobile No.</h3>
+
     <form>
       <input type="text" id="name" placeholder="Full Name"><br>
       <input type="number"id="mobile" placeholder="Mobile No."><br>
       <input type="email" id="email" placeholder="Emaid ID"><br>
       <input type="password" id="password" placeholder="Password"><br>
-      <input type="submit" value="Submit" />
+      <p>Password must be at least 8 characters long with 1 Uppercase, 1 Lowercase & 1 Numeric character.</p>
+      <input type="submit" value="Submit"  class="submit"/>
     </form>
   </div>
+  <div class="back">
+     <a href="./index.html"><i class="fa-solid fa-house"></i></a>
+     <a href="./signIn.html"><i class="fa-solid fa-circle-chevron-left"></i></a>
+    </div>
+</div>
 </body>
 <script>
   let name = document.getElementById("name");
