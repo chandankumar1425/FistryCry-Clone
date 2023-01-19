@@ -1,0 +1,69 @@
+*{
+    /* margin-top: 50px; */
+}
+
+.set{
+    margin-top: 100px;
+    margin-left: 600px;
+    width: 25%;
+    height: 600px;
+    /* border-style:dashed; */
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12)
+     0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;    
+    text-align: center;
+    /* margin: auto; */
+}
+
+.set img{
+    margin-top: 50px;
+    /* margin-left: 100px; */
+    width: 40%;
+}
+
+
+/* .nav{
+    margin: auto;
+  margin-top: 50px;
+  justify-content:space-around;
+} */
+
+#email{
+    border:none;
+    margin-left: 15px;
+    width: 90%;
+    height: 30px;
+    /* border: 2px solid red; */
+}
+#password{
+    border: none;
+    margin-left: 15px;
+    margin-top: 10px;
+    width: 90%;
+    height: 30px;
+    /* border: 2px solid red; */
+}
+#mobile{
+    border: none;
+    margin-top: 10px;
+    margin-left: 15px;
+    width: 90%;
+    height: 30px;
+    /* border: 2px solid red; */
+}
+#cont{
+    border: none;
+    margin-top: 10px;
+    /* margin-left: 15px; */
+    width: 90%;
+    height: 30px;
+    background-color: red;
+    border-radius: 5px;
+    color: white;
+}
+
+.back{
+    margin-top: 10px;
+    justify-content:space-evenly
+
+}

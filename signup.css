@@ -1,0 +1,61 @@
+.set{
+    width: 25%;
+    height: 600px;
+    /* border-style: dashed; */
+    text-align: center;
+    margin-left: 600px;
+    margin-top: 100px;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;}
+.set img{
+    margin-top: 50px;
+    /* margin-left: 100px; */
+    width: 40%;
+}
+#name{
+    border:none;
+    margin-left: 15px;
+    width: 90%;
+    height: 30px;
+    /* border: 2px solid red; */
+}
+#email{
+    border:none;
+    margin-left: 15px;
+    width: 90%;
+    height: 30px;
+    /* border: 2px solid red; */
+}
+#password{
+    border: none;
+    margin-left: 15px;
+    margin-top: 10px;
+    width: 90%;
+    height: 30px;
+    /* border: 2px solid red; */
+}
+#mobile{
+    border: none;
+    margin-top: 10px;
+    margin-left: 15px;
+    width: 90%;
+    height: 30px;
+    /* border: 2px solid red; */
+}
+
+.submit{
+    border: none;
+    margin-top: 10px;
+    margin-left: 15px;
+    width: 90%;
+    height: 30px;
+    background-color: red;
+    border-radius: 5px;
+    color: white;
+
+
+}
+.back{
+    margin-top: 20px;
+    justify-content:space-evenly
+
+}

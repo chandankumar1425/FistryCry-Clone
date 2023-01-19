@@ -5,23 +5,44 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Sign in Page</title>
+    <link rel="stylesheet" href="sign.css">
+    <script src="https://kit.fontawesome.com/4052196a9f.js" crossorigin="anonymous"></script>
+
+  
   </head>
   <body>
-    <div class="nav">
-      <a href="./signup.html">Signup</a>
-      <a href="./index.html">Home</a>
-    </div>
-    <div id="signin">
-      <h1 id="heading">Please Enter Your Details</h1>
+    <div class="set">
+          <a href="./index.html"><img src="https://cdn.fcglcdn.com/brainbees/images/n/fc-logo-s.jpg" alt=""></a>
+      <div class="nav">
+      <!-- <a href="./index.html">Home</a> -->
+      </div>
+
+      <div id="signin">
+        <h2>Login / Register</h2>
+      <h3 id="heading">Email ID/Mobile No.</h3>
       <form>
         <input type="email" id="email" placeholder="Email" /><br>
+        <input type="number"id="mobile" placeholder="Mobile No."><br>
         <input type="password" id="password" placeholder="Password" /><br>
-        <input type="submit" value="Submit" />
+        <a href="./index.html"><button id="cont" value="CONTINUE">CONTINUE</button></a>
+        <h4>---------------OR---------------</h4>
       </form>
+      </div>      
+      <h4 >New to Firstcry?<a href="./signup.html" style="text-decoration: none";>Ragister Here</a></h4>
+      <div class="back">
+        <a href="./index.html"><i class="fa-solid fa-house-user"></i></a>
+        <a href="./index.html"><i class="fa-brands fa-google"></i></a>
+        <a href="https://www.facebook.com/login/"><i class="fa-brands fa-facebook"></i></i></a>
+       </div>
+        
+      <p >By continuing, you agree to Firstcry's <a href="https://www.firstcry.com/termsofuse"style="text-decoration: none;">
+         Conditions of Use</a> and <a href="https://www.firstcry.com/privacypolicy"style="text-decoration: none;"> Privacy Notice.</a></p>
+
     </div>
   </body>
   <script>
         let email=document.getElementById("email")
+        let mobile=document.getElementById("mobile")
         let password=document.getElementById("password");
 
         let storeddata=JSON.parse(localStorage.getItem("account-data"))
@@ -30,12 +51,14 @@
           display(storeddata);
           function display(data){
            data.forEach((e,i)=>{
-            if(email.value===e.Email  && password.value ===e.Password){
+            if(email.value===e.Email  && password.value ===e.Password && mobile.value===e.MobileNo){
               document.getElementById("heading").innerText="Sign in Successful";
               alert("Login Sucessfull")
+              window.location.href="./index.html"
             }
             else{
               document.getElementById("heading").innerText="Wrong Credentials";
+              alert("Wrong Credentials")
 
             }
            })
