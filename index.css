@@ -43,7 +43,7 @@ background-size: 15px;
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background-color: yellow;
+    background-color:rgb(255,217,28);
     /* border: 2px solid red; */
     position: sticky;
     top: 0;
@@ -55,7 +55,7 @@ background-size: 15px;
 
 .secnav a:hover{
 
-    background-color: red;
+    /* background-color: red; */
     cursor: pointer;
 }
 /* #blue{
@@ -86,18 +86,19 @@ background-size: 15px;
 } */
 .card{
     display: grid;
+    text-align: left;
     grid-template-columns: repeat(3,1fr);
     gap: 15px;
 }
 .card img{    
-    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    box-shadow: rgba(0, 0, 0, 0.097) 0px 3px 8px;
     width: 100%;
 }
 .card h3{
-    margin-top: -2px;
+    margin-top: 2px;
 }
 .card p{
-    margin-top: -20px;
+    margin-top: -10px;
 }
 .card div{
     box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px,
@@ -276,4 +277,56 @@ width: 100%;
 
 .nav{
     margin: auto;
+}
+
+
+
+/* ////////////////////////////////////////////// */
+.dropbtn {
+    padding: 7px;
+    border: none;
+    /* font-size: 20px; */
+    background-color:rgb(255,217,28);
+    color:black;
+
+
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdowncontent {
+    display: none;
+    position: absolute;
+    background-color: white;
+    min-width: 100px;
+    z-index: 1;
+}
+
+.dropdowncontent a {
+    
+    color:black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+
+
+.dropdown:hover .dropdowncontent {
+    display: flex;
+
+}
+
+.dropdown:hover .dropdowncontent div {
+    display: flex;
+}
+
+.dropdown:hover .dropbtn {
+    background-color:white;
+    color:black;
+    /* font-size: 30px; */
+    cursor: pointer;
 }

@@ -1,0 +1,19 @@
+.list{
+    width: 90%;
+    margin: auto;
+    margin-top: 30px;
+    border: 2px solid red;
+    display: grid;
+    grid-template-columns: repeat(6,1fr);
+    gap: 10px;
+    text-align: center;
+}
+.list div{
+    /* width: 0%; */
+    border: 2px solid red;
+
+}
+.list img{    
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    width: 100%;
+}
