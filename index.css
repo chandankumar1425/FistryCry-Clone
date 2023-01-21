@@ -330,3 +330,22 @@ width: 100%;
     /* font-size: 30px; */
     cursor: pointer;
 }
+
+/* ////////////////////// */
+.footer{
+    width: 90%;
+    margin: auto;
+    /* border: 2px solid red; */
+}
+.footer img{
+    width: 100%;
+}
+.footer1{
+    width: 90%;
+    margin: auto;
+    margin-top: -15px;
+    /* border: 2px solid red; */
+}
+.footer1 img{
+    width: 100%;
+}

@@ -38,3 +38,13 @@ setInterval(slideshowFun,2000,movieImages)
 
   // add event-listeners;
 });
+
+const totalPro = document.getElementById("count") ;
+  let Cart= JSON.parse(localStorage.getItem("cart"))||[];
+    let count=0;
+for(let i=0;i<Cart.length;i++)
+{
+  count+=Cart[i].quantity;
+}
+
+totalPro.textContent=count;
