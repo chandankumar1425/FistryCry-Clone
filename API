@@ -1,0 +1,402 @@
+[
+  {
+    "brand": "Frock and Paijama",
+    "img": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/10033845a.webp",
+    "price": "452.00",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore eaque laudantium et cum, nulla consectetur nostrum culpa similique facilis a!",
+    "category": "Appeal and Clothing",
+    "id": "1"
+  },
+  {
+    "brand": "Salwar Suit",
+    "img": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12254609a.webp",
+    "price": "399.00",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore eaque laudantium et cum, nulla consectetur nostrum culpa similique facilis a!",
+    "category": "Appeal and Clothing",
+    "id": "2"
+  },
+  {
+    "brand": "Winter Jacket",
+    "img": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/11268431a.webp",
+    "price": "1199.00",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore eaque laudantium et cum, nulla consectetur nostrum culpa similique facilis a!",
+    "category": "Appeal and Clothing",
+    "id": "3"
+  },
+  {
+    "brand": "Fashion Jacket",
+    "img": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12108112a.webp",
+    "price": "799.00",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore eaque laudantium et cum, nulla consectetur nostrum culpa similique facilis a!",
+    "category": "Appeal and Clothing",
+    "id": "4"
+  },
+  {
+    "brand": "Kids Jacket",
+    "img": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/11534739a.webp",
+    "price": "690.00",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore eaque laudantium et cum, nulla consectetur nostrum culpa similique facilis a!",
+    "category": "Appeal and Clothing",
+    "id": "5"
+  },
+  {
+    "brand": "GIrl's Top",
+    "img": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/11801810a.webp",
+    "price": "999.00",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore eaque laudantium et cum, nulla consectetur nostrum culpa similique facilis a!",
+    "category": "Appeal and Clothing",
+    "id": "6"
+  },
+  {
+    "brand": "Woolen Jacket",
+    "img": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/8687044a.webp",
+    "price": "1999.00",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore eaque laudantium et cum, nulla consectetur nostrum culpa similique facilis a!",
+    "category": "Appeal and Clothing",
+    "id": "7"
+  },
+  {
+    "brand": "Kids Frock",
+    "img": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/11229642a.webp",
+    "price": "699.00",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore eaque laudantium et cum, nulla consectetur nostrum culpa similique facilis a!",
+    "category": "Appeal and Clothing",
+    "id": "8"
+  },
+  {
+    "brand": "Boy's T-shirt",
+    "img": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/11496598a.webp",
+    "price": "599.00",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore eaque laudantium et cum, nulla consectetur nostrum culpa similique facilis a!",
+    "category": "Appeal and Clothing",
+    "id": "9"
+  },
+  {
+    "brand": "Winter Jacket",
+    "img": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/11364134a.webp",
+    "price": "799.00",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore eaque laudantium et cum, nulla consectetur nostrum culpa similique facilis a!",
+    "category": "Appeal and Clothing",
+    "id": "10"
+  },
+  {
+    "brand": "Kids Jacket",
+    "img": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/9322625a.webp",
+    "price": "799.00",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore eaque laudantium et cum, nulla consectetur nostrum culpa similique facilis a!",
+    "category": "Appeal and Clothing",
+    "id": "11"
+  },
+  {
+    "brand": "Tutole Toys",
+    "img": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/11794445a.webp",
+    "price": "299.00",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore eaque laudantium et cum, nulla consectetur nostrum culpa similique facilis a!",
+    "category": "Toys",
+    "id": "12"
+  },
+  {
+    "brand": "Mobiles",
+    "img": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/3567201a.webp",
+    "price": "779.00",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore eaque laudantium et cum, nulla consectetur nostrum culpa similique facilis a!",
+    "category": "Toys",
+    "id": "13"
+  },
+  {
+    "brand": "Music Instrument",
+    "img": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/3749130a.webp",
+    "price": "399.00",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore eaque laudantium et cum, nulla consectetur nostrum culpa similique facilis a!",
+    "category": "Toys",
+    "id": "14"
+  },
+  {
+    "brand": "Alram",
+    "img": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/11794441a.webp",
+    "price": "249.00",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore eaque laudantium et cum, nulla consectetur nostrum culpa similique facilis a!",
+    "category": "Toys",
+    "id": "15"
+  },
+  {
+    "brand": "Puma",
+    "img": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12676974e.jpg",
+    "price": "2999.00",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore eaque laudantium et cum, nulla consectetur nostrum culpa similique facilis a!",
+    "category": "Shoes",
+    "id": "16"
+  },
+  {
+    "brand": "Puma",
+    "img": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/8294953a.webp",
+    "price": "1599.00",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore eaque laudantium et cum, nulla consectetur nostrum culpa similique facilis a!",
+    "category": "Appeal and Clothing",
+    "id": "17"
+  },
+  {
+    "brand": "Baby Oil",
+    "img": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/cc9692a.webp",
+    "price": "119.00",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore eaque laudantium et cum, nulla consectetur nostrum culpa similique facilis a!",
+    "category": "Fashion Product",
+    "id": "18"
+  },
+  {
+    "brand": "Amala",
+    "img": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/8727777b.jpg",
+    "price": "109.00",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore eaque laudantium et cum, nulla consectetur nostrum culpa similique facilis a!",
+    "category": "Fashion Product",
+    "id": "19"
+  },
+  {
+    "brand": "Cocnut Oil",
+    "img": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/8727764a.webp",
+    "price": "149.00",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore eaque laudantium et cum, nulla consectetur nostrum culpa similique facilis a!",
+    "category": "Fashion Product",
+    "id": "20"
+  },
+  {
+    "brand": "Dusting Powder",
+    "img": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/9044928a.webp",
+    "price": "249.00",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore eaque laudantium et cum, nulla consectetur nostrum culpa similique facilis a!",
+    "category": "Fashion Product",
+    "id": "21"
+  },
+  {
+    "brand": "Massage Oil",
+    "img": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/3437934a.webp",
+    "price": "219.00",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore eaque laudantium et cum, nulla consectetur nostrum culpa similique facilis a!",
+    "category": "Fashion Product",
+    "id": "22"
+  },
+  {
+    "brand": "Bata",
+    "img": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12927235a.webp",
+    "price": "1399.00",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore eaque laudantium et cum, nulla consectetur nostrum culpa similique facilis a!",
+    "category": "Shoes",
+    "id": "23"
+  },
+  {
+    "brand": "Asian",
+    "img": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12772547a.webp",
+    "price": "799.00",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore eaque laudantium et cum, nulla consectetur nostrum culpa similique facilis a!",
+    "category": "Shoes",
+    "id": "24"
+  },
+  {
+    "brand": "Redtape",
+    "img": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12772509a.webp",
+    "price": "499.00",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore eaque laudantium et cum, nulla consectetur nostrum culpa similique facilis a!",
+    "category": "Shoes",
+    "id": "25"
+  },
+  {
+    "brand": "Adidas",
+    "img": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12772562a.webp",
+    "price": "1499.00",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore eaque laudantium et cum, nulla consectetur nostrum culpa similique facilis a!",
+    "category": "Shoes",
+    "id": "26"
+  },
+  {
+    "brand": "Ajanta",
+    "img": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12927378a.webp",
+    "price": "699.00",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore eaque laudantium et cum, nulla consectetur nostrum culpa similique facilis a!",
+    "category": "Shoes",
+    "id": "27"
+  },
+  {
+    "brand": "Safe Sit",
+    "img": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/3453114a.webp",
+    "price": "2000.00",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore eaque laudantium et cum, nulla consectetur nostrum culpa similique facilis a!",
+    "category": "Safty Belt",
+    "id": "28"
+  },
+  {
+    "brand": "Holder",
+    "img": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/8720762a.webp",
+    "price": "699.00",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore eaque laudantium et cum, nulla consectetur nostrum culpa similique facilis a!",
+    "category": "Safty Belt",
+    "id": "29"
+  },
+  {
+    "brand": "Safe Sit",
+    "img": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/3453115a.webp",
+    "price": "1989.00",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore eaque laudantium et cum, nulla consectetur nostrum culpa similique facilis a!",
+    "category": "Safty Belt",
+    "id": "30"
+  },
+  {
+    "brand": "Display",
+    "img": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/3719650a.webp",
+    "price": "1199.00",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore eaque laudantium et cum, nulla consectetur nostrum culpa similique facilis a!",
+    "category": "Toys",
+    "id": "31"
+  },
+  {
+    "brand": "NANPRO",
+    "img": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/578561a.webp",
+    "price": "349.00",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore eaque laudantium et cum, nulla consectetur nostrum culpa similique facilis a!",
+    "category": "Feeding",
+    "id": "32"
+  },
+  {
+    "brand": "timios",
+    "img": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/8714190a.webp",
+    "price": "149.00",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore eaque laudantium et cum, nulla consectetur nostrum culpa similique facilis a!",
+    "category": "Feeding",
+    "id": "33"
+  },
+  {
+    "brand": "DEXOLAC",
+    "img": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/2201580a.webp",
+    "price": "249.00",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore eaque laudantium et cum, nulla consectetur nostrum culpa similique facilis a!",
+    "category": "Feeding",
+    "id": "34"
+  },
+  {
+    "brand": "timios",
+    "img": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/10426798a.webp",
+    "price": "399.00",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore eaque laudantium et cum, nulla consectetur nostrum culpa similique facilis a!",
+    "category": "Feeding",
+    "id": "35"
+  },
+  {
+    "brand": "timios",
+    "img": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/9564561a.webp",
+    "price": "149.00",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore eaque laudantium et cum, nulla consectetur nostrum culpa similique facilis a!",
+    "category": "Feeding",
+    "id": "36"
+  },
+  {
+    "brand": "Babynet",
+    "img": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/333406a.webp",
+    "price": "499.00",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore eaque laudantium et cum, nulla consectetur nostrum culpa similique facilis a!",
+    "category": "Mosquito Net",
+    "id": "37"
+  },
+  {
+    "brand": "Babynet",
+    "img": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/11507291a.webp",
+    "price": "690.00",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore eaque laudantium et cum, nulla consectetur nostrum culpa similique facilis a!",
+    "category": "Mosquito Net",
+    "id": "38"
+  },
+  {
+    "brand": "Babynet",
+    "img": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/10267121a.webp",
+    "price": "449.00",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore eaque laudantium et cum, nulla consectetur nostrum culpa similique facilis a!",
+    "category": "Mosquito Net",
+    "id": "39"
+  },
+  {
+    "brand": "Baby Nat Bed",
+    "img": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/9693925a.webp",
+    "price": "4999.00",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore eaque laudantium et cum, nulla consectetur nostrum culpa similique facilis a!",
+    "category": "Mosquito Net",
+    "id": "40"
+  },
+  {
+    "brand": "Babynet",
+    "img": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/9547469a.webp",
+    "price": "799.00",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore eaque laudantium et cum, nulla consectetur nostrum culpa similique facilis a!",
+    "category": "Mosquito Net",
+    "id": "41"
+  },
+  {
+    "brand": "Winter",
+    "img": "https://cdn.fcglcdn.com/brainbees/images/products/438x531/9981444a.webp",
+    "price": "491.00",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore eaque laudantium et cum, nulla consectetur nostrum culpa similique facilis a!",
+    "category": "Appeal and Clothing",
+    "id": "42"
+  },
+  {
+    "brand": "Top",
+    "img": "https://cdn.fcglcdn.com/brainbees/images/products/438x531/9997685a.webp",
+    "price": "436.00",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore eaque laudantium et cum, nulla consectetur nostrum culpa similique facilis a!",
+    "category": "Appeal and Clothing",
+    "id": "43"
+  },
+  {
+    "brand": "Jacket",
+    "img": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/9997435a.webp",
+    "price": "1000.00",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore eaque laudantium et cum, nulla consectetur nostrum culpa similique facilis a!",
+    "category": "Appeal and Clothing",
+    "id": "44"
+  },
+  {
+    "brand": "Woolen Jacket",
+    "img": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/10165576a.webp",
+    "price": "749.00",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore eaque laudantium et cum, nulla consectetur nostrum culpa similique facilis a!",
+    "category": "Appeal and Clothing",
+    "id": "45"
+  },
+  {
+    "brand": "MORAZ",
+    "img": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/12015818a.webp",
+    "price": "299.00",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore eaque laudantium et cum, nulla consectetur nostrum culpa similique facilis a!",
+    "category": "Beauty Product",
+    "id": "46"
+  },
+  {
+    "brand": "mama-earth",
+    "img": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/cc12288a.webp",
+    "price": "449.00",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore eaque laudantium et cum, nulla consectetur nostrum culpa similique facilis a!",
+    "category": "Beauty Product",
+    "id": "47"
+  },
+  {
+    "brand": "Pine Shoe",
+    "img": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/9828566a.webp",
+    "price": "349.00",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore eaque laudantium et cum, nulla consectetur nostrum culpa similique facilis a!",
+    "category": "Shoes",
+    "id": "48"
+  },
+  {
+    "brand": "Puma Slipper",
+    "img": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/9312033a.webp",
+    "price": "399.00",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore eaque laudantium et cum, nulla consectetur nostrum culpa similique facilis a!",
+    "category": "Shoes",
+    "id": "49"
+  },
+  {
+    "brand": "Puma Boots",
+    "img": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/8296316a.webp",
+    "price": "1299.00",
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore eaque laudantium et cum, nulla consectetur nostrum culpa similique facilis a!",
+    "category": "Shoes",
+    "id": "50"
+  }
+]
