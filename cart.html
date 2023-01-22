@@ -7,6 +7,9 @@
     <title>Cart Page</title>
     <style>
       /* Write all necessery css here  */
+      
+      
+
       .nav {
         margin-top: 30px;
         height: 50px;
@@ -28,6 +31,8 @@
         /* border: 2px solid red; */
         box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
         padding: 10px;
+        margin-top: 20px;
+
       }
       #cart-container>div>img{
         height: 200px;
@@ -48,9 +53,36 @@
       #total{
         margin: auto;
         margin-top: 20px;
+        margin-bottom: 20px;
         text-align: center;
         border-style:dashed;
-        width: 40%;
+        width: 100%;
+      }
+      .third{
+        margin: auto;
+        width: 90%;
+        /* border: 2px solid red; */
+        display: flex;
+        justify-content: space-around;
+      }
+      .third a{
+        text-decoration: none;
+        
+      }
+      .color{
+        margin: auto;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        text-align: center;
+        border-style:dashed;
+        /* width: 100%; */
+
+      }
+      .third{
+        width: 70%;
+        margin-top: 20px;
+        /* border: 2px solid red; */
+        border-style: dashed;
       }
     </style>
   </head>
@@ -1667,9 +1699,12 @@
       <!-- <a href="./productpage.html">Home</a> -->
       <!-- <a href="./cart.html">Cart</a> -->
     </div>
-    <h1 id="total">
-      Your Total cart Price is:- <span id="cart-total">0</span>
-    </h1>
+
+    <div class="third">
+            <div><h1 id="total">Your Total cart Price is:- <span id="cart-total">0</span></h1></div>
+            <div><a href="./payment.html"><h1 id="total">  Proceed to Payment</h1></a></div>
+    
+    </div>
     <div id="cart-container">
       <!-- Here Append All the cart Products  -->
     </div>
