@@ -17,3 +17,10 @@ I have made it from html css and javascript
 
 
 
+![23](https://user-images.githubusercontent.com/118505620/213984587-55abe3f5-5b08-49b3-95e7-0e2c452c98f8.png)
+
+
+![24](https://user-images.githubusercontent.com/118505620/213984679-163e7470-3365-49cc-919a-d547726bfb02.png)
+
+![25](https://user-images.githubusercontent.com/118505620/213984915-1d906c4d-4795-41ee-9c21-7ebfbe2fa533.png)
+
